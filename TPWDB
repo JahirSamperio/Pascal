@@ -1,0 +1,6 @@
+Crear un archivo código fuente en el bloc de notas
+Guardar con extension .PAS y configuración todos los archivos
+Instalar emulador para Pascal (TPWDB)
+Abrir emulador
+Importar archivo código fuente del bloc de notas
+Compilar código y si no hay errores, se puede correr
